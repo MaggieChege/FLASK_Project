@@ -1,2 +1,2 @@
 # FLASK_Project
-Fllask practice with SQL Alchemy
+Flask practice with SQL Alchemy
